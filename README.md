@@ -1,13 +1,13 @@
 # 💫 About Me:
 ## English
 <br>
- Hi there! I’m Palaogluserdest, a Civil Engineer and Junior Frontend Developer passionate about shaping my career in the tech world. I work with technologies such as HTML, CSS, SASS, Module CSS, JavaScript, TypeScript, React, NextJs, AstroJs, and D3Js to create innovative projects.
+ Hi there! I’m Serdest PALAOGLU, a Civil Engineer and Junior Frontend Developer passionate about shaping my career in the tech world. I work with technologies such as HTML, CSS, SASS, Module CSS, JavaScript, TypeScript, React, NextJs, AstroJs, and D3Js to create innovative projects.
 <br><br>I use GitHub to share my projects and to coordinate with the platforms where I teach, like Archi’s Academy. I enjoy working on blogs, portfolio websites, e-commerce platforms, and admin dashboards. I’m also open to collaborating on projects that will help me grow and learn.
 <br><br>Here’s how I define myself: creative, eager to learn, collaborative, problem solver, and inquisitive. I love exploring new technologies, playing games, and embracing every opportunity that contributes to my personal growth.
   
 ## Türkçe
 <br>
-  Merhaba! Ben Palaogluserdest, İnşaat Mühendisi ve aynı zamanda Junior Frontend Developer olarak kariyerimi teknoloji dünyasında şekillendiriyorum. HTML, CSS, SASS, Module CSS, JavaScript, TypeScript, React, NextJs, AstroJs ve D3Js gibi teknolojilerle projeler geliştiriyorum.
+  Merhaba! Ben Serdest PALAOĞLU, İnşaat Mühendisi ve aynı zamanda Junior Frontend Developer olarak kariyerimi teknoloji dünyasında şekillendiriyorum. HTML, CSS, SASS, Module CSS, JavaScript, TypeScript, React, NextJs, AstroJs ve D3Js gibi teknolojilerle projeler geliştiriyorum.
 <br><br>GitHub’ı kendi projelerimi paylaşmak ve eğitim verdiğim Archi’s Academy gibi platformlarda koordinasyonu sağlamak için kullanıyorum. Özellikle bloglar, portfolyo siteleri, e-ticaret platformları ve admin panelleri gibi projeler üzerinde çalışmayı seviyorum. Ayrıca, kendimi geliştirebileceğim her tür projeye açık biriyim.
 <br><br>Kendimi şu şekilde tanımlayabilirim: yaratıcı, öğrenmeye açık, işbirlikçi, problem çözücü ve araştırmacı. Teknolojiyi öğrenmek, oyun oynamak ve kişisel gelişimime katkıda bulunacak her fırsatı değerlendirmek benim için büyük bir tutku.
 
